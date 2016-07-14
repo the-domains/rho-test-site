@@ -9,14 +9,14 @@ description: >-
   experienced, creative problem-solvers who provide outstanding clinical
   research fueled by our unique team approach. Our dedication to collaboration
   makes your clinical trials and programs run smarter and more efficiently.
-datePublished: '2016-07-14T18:25:38.106Z'
-dateModified: '2016-07-14T16:59:34.525Z'
+datePublished: '2016-07-14T19:06:21.372Z'
+dateModified: '2016-07-14T19:06:04.429Z'
 title: 'Welcome to a different kind of CRO. '
 author: []
+sourcePath: _posts/2016-07-14-welcome-to-a-different-kind-of-cro.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-07-14-welcome-to-a-different-kind-of-cro.md
+starred: true
 url: welcome-to-a-different-kind-of-cro/index.html
 _type: Article
 
