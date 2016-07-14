@@ -4,7 +4,7 @@
         <description><![CDATA[Rho test site]]></description>
         <link>https://thegrid.ai/rho-test-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 19:43:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2016 19:44:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rho-test-site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to a different kind of CRO. ]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/rho-test-site/welcome-to-a-different-kind-of-cro/index.html</link>
             <guid isPermaLink="false">90fc9953-6214-4d5f-b83f-bf002302b29e</guid>
             <pubDate>Thu, 14 Jul 2016 19:06:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Featured Experts]]></title>
+            <description><![CDATA[<article><h1>Featured Experts</h1><h2>Let our team of experts be your go-to team for your next clinical trial</h2><p>Our multifunctional teams work side by side with you throughout the course of your trial. This unique 360º approach eliminates hand-off confusion and empowers you to make more informed decisions. Learn more about some of the experts that could become an extension of your team. </p></article>]]></description>
+            <link>https://thegrid.ai/rho-test-site/featured-experts/index.html</link>
+            <guid isPermaLink="false">91d20fd0-2eb3-4156-beab-ff0f38e2aa29</guid>
+            <pubDate>Thu, 14 Jul 2016 19:44:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Therapeutic Expertise]]></title>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/rho-test-site/contact-us/index.html</link>
             <guid isPermaLink="false">9a2948ba-1f38-40ec-927d-61c506af3f6b</guid>
             <pubDate>Thu, 14 Jul 2016 18:26:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Featured Experts]]></title>
-            <description><![CDATA[<article><h1>Featured Experts</h1><h2>Let our team of experts be your go-to team for your next clinical trial</h2><p>Our multifunctional teams work side by side with you throughout the course of your trial. This unique 360º approach eliminates hand-off confusion and empowers you to make more informed decisions. Learn more about some of the experts that could become an extension of your team. </p></article>]]></description>
-            <link>https://thegrid.ai/rho-test-site/featured-experts/index.html</link>
-            <guid isPermaLink="false">91d20fd0-2eb3-4156-beab-ff0f38e2aa29</guid>
-            <pubDate>Thu, 14 Jul 2016 18:25:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Solutions]]></title>
