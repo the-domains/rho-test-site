@@ -4,7 +4,7 @@
         <description><![CDATA[Rho test site]]></description>
         <link>https://thegrid.ai/rho-test-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 20:02:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2016 20:02:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rho-test-site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to a different kind of CRO. ]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/rho-test-site/welcome-to-a-different-kind-of-cro/index.html</link>
             <guid isPermaLink="false">90fc9953-6214-4d5f-b83f-bf002302b29e</guid>
             <pubDate>Thu, 14 Jul 2016 19:06:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31ba48c2-f778-49db-b5cf-5e65c811437b.jpg">]]></description>
+            <link>https://thegrid.ai/rho-test-site/081e4194-08b1-4d69-86e5-aa072a239259/index.html</link>
+            <guid isPermaLink="false">081e4194-08b1-4d69-86e5-aa072a239259</guid>
+            <pubDate>Thu, 14 Jul 2016 20:02:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/rho-test-site/therapeutic-expertise/index.html</link>
             <guid isPermaLink="false">e616a065-a85d-4ba3-a795-f95e81c07154</guid>
             <pubDate>Thu, 14 Jul 2016 19:43:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet the Team]]></title>
-            <description><![CDATA[<article><h1>Meet the Team</h1><p>Bill enjoys celebrity status at Rho for creating amazing works of art on the whiteboard in his work space. From whimsical scenery, to character replicas, villains, and mythical creatures, Bill creates stunning reproductions of classic stories, movies, and famous paintings with just a marker and a whiteboard. But, Bill's talent goes beyond the dry erase marker. As a Clinical Data Manager, Bill is responsible for reviewing study protocols and cleaning research data primarily for federal research studies. He also has a hand in designing and developing case report forms and other study related documents. Outside of Rho, Bill enjoys spending time with his two young children. </p></article>]]></description>
-            <link>https://thegrid.ai/rho-test-site/meet-the-team/index.html</link>
-            <guid isPermaLink="false">e489d2fe-07ed-4f16-a28b-d4ccbe97affb</guid>
-            <pubDate>Thu, 14 Jul 2016 19:25:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
