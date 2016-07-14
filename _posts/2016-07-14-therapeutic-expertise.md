@@ -9,14 +9,14 @@ description: >-
   retain some of the most experienced clinical and medical research experts in
   our industry. Our passion for quality and the world-class talent it attracts
   leads to the impressive range of therapeutic experience we offer.
-datePublished: '2016-07-14T19:43:51.652Z'
-dateModified: '2016-07-14T19:37:16.497Z'
+datePublished: '2016-07-14T20:55:20.521Z'
+dateModified: '2016-07-14T20:54:36.803Z'
 title: Therapeutic Expertise
 author: []
 sourcePath: _posts/2016-07-14-therapeutic-expertise.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: therapeutic-expertise/index.html
 _type: Article
 
