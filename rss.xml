@@ -4,7 +4,7 @@
         <description><![CDATA[Rho test site]]></description>
         <link>https://thegrid.ai/rho-test-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 20:04:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2016 20:07:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rho-test-site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to a different kind of CRO. ]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/rho-test-site/welcome-to-a-different-kind-of-cro/index.html</link>
             <guid isPermaLink="false">90fc9953-6214-4d5f-b83f-bf002302b29e</guid>
             <pubDate>Thu, 14 Jul 2016 19:06:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7609aa7e-c836-4307-8b56-6a0dc15ae5d4.jpg">]]></description>
+            <link>https://thegrid.ai/rho-test-site/6c1f53c3-0590-49bb-bf8f-dd1b94ed7e7a/index.html</link>
+            <guid isPermaLink="false">6c1f53c3-0590-49bb-bf8f-dd1b94ed7e7a</guid>
+            <pubDate>Thu, 14 Jul 2016 20:07:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/rho-test-site/a7277ade-06c9-46c9-a775-88e3cf3b77b3/index.html</link>
             <guid isPermaLink="false">a7277ade-06c9-46c9-a775-88e3cf3b77b3</guid>
             <pubDate>Thu, 14 Jul 2016 19:57:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>https://youtu.be/RlU7E0d8ycI</p>]]></description>
-            <link>https://thegrid.ai/rho-test-site/httpsyoutuberlu7e0d8yci/index.html</link>
-            <guid isPermaLink="false">fee75f99-3214-4d94-9195-4b053702fbcf</guid>
-            <pubDate>Thu, 14 Jul 2016 19:57:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
