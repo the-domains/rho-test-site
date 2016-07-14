@@ -9,14 +9,14 @@ description: >-
   your trial. This unique 360º approach eliminates hand-off confusion and
   empowers you to make more informed decisions. Learn more about some of the
   experts that could become an extension of your team. 
-datePublished: '2016-07-14T18:25:05.411Z'
-dateModified: '2016-07-14T18:24:46.930Z'
+datePublished: '2016-07-14T19:44:21.316Z'
+dateModified: '2016-07-14T18:25:08.595Z'
 title: Featured Experts
 author: []
+sourcePath: _posts/2016-07-14-featured-experts.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-14-featured-experts.md
 url: featured-experts/index.html
 _type: Article
 
