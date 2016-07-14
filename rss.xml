@@ -4,7 +4,7 @@
         <description><![CDATA[Rho test site]]></description>
         <link>https://thegrid.ai/rho-test-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 19:57:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2016 19:58:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rho-test-site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to a different kind of CRO. ]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/rho-test-site/welcome-to-a-different-kind-of-cro/index.html</link>
             <guid isPermaLink="false">90fc9953-6214-4d5f-b83f-bf002302b29e</guid>
             <pubDate>Thu, 14 Jul 2016 19:06:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba43ff3d-f666-4966-9157-536c3d3b7bf4.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba43ff3d-f666-4966-9157-536c3d3b7bf4.jpg</link>
+            <guid isPermaLink="false">abba2572-1c99-48f7-8092-8bb7a5c72eed</guid>
+            <pubDate>Thu, 14 Jul 2016 19:58:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
