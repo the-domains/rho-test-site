@@ -4,7 +4,7 @@
         <description><![CDATA[Rho test site]]></description>
         <link>https://thegrid.ai/rho-test-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 20:02:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2016 20:03:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rho-test-site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to a different kind of CRO. ]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/rho-test-site/welcome-to-a-different-kind-of-cro/index.html</link>
             <guid isPermaLink="false">90fc9953-6214-4d5f-b83f-bf002302b29e</guid>
             <pubDate>Thu, 14 Jul 2016 19:06:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f31abb85-6c0f-4250-9cec-42d07a510d6d.jpg">]]></description>
+            <link>https://thegrid.ai/rho-test-site/e88ce66a-46b1-4d6e-9508-f431d06aa290/index.html</link>
+            <guid isPermaLink="false">e88ce66a-46b1-4d6e-9508-f431d06aa290</guid>
+            <pubDate>Thu, 14 Jul 2016 20:02:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/rho-test-site/featured-experts/index.html</link>
             <guid isPermaLink="false">91d20fd0-2eb3-4156-beab-ff0f38e2aa29</guid>
             <pubDate>Thu, 14 Jul 2016 19:44:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Therapeutic Expertise]]></title>
-            <description><![CDATA[<article><h1>Therapeutic Expertise</h1><h2>Broad therapeutic area experience produces quality clinical trial management</h2><p>Over the years, our focus on quality science has allowed us to attract and retain some of the most experienced clinical and medical research experts in our industry. Our passion for quality and the world-class talent it attracts leads to the impressive range of therapeutic experience we offer.</p></article>]]></description>
-            <link>https://thegrid.ai/rho-test-site/therapeutic-expertise/index.html</link>
-            <guid isPermaLink="false">e616a065-a85d-4ba3-a795-f95e81c07154</guid>
-            <pubDate>Thu, 14 Jul 2016 19:43:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
