@@ -4,7 +4,7 @@
         <description><![CDATA[Rho test site]]></description>
         <link>https://thegrid.ai/rho-test-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 20:00:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2016 20:01:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rho-test-site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to a different kind of CRO. ]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/rho-test-site/welcome-to-a-different-kind-of-cro/index.html</link>
             <guid isPermaLink="false">90fc9953-6214-4d5f-b83f-bf002302b29e</guid>
             <pubDate>Thu, 14 Jul 2016 19:06:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0026572d-7fe9-4c1d-9c8f-4e1e86d0010e.jpg">]]></description>
+            <link>https://thegrid.ai/rho-test-site/906071f9-fa38-45e6-bb1e-06db48c2589a/index.html</link>
+            <guid isPermaLink="false">906071f9-fa38-45e6-bb1e-06db48c2589a</guid>
+            <pubDate>Thu, 14 Jul 2016 20:01:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/rho-test-site/contact-us/index.html</link>
             <guid isPermaLink="false">9a2948ba-1f38-40ec-927d-61c506af3f6b</guid>
             <pubDate>Thu, 14 Jul 2016 18:26:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Solutions]]></title>
-            <description><![CDATA[<article><h1>Solutions</h1><h2>Consulting</h2><p>Clinical trials involve a myriad of complicated processes and variables. Rho can help you navigate the clinical trial process to save you time and minimize costs. Each client benefits from our years of expert support of the world’s leading pharmaceutical and biotechnology companies as well as the National Institutes of Health and other federal agencies.</p></article>]]></description>
-            <link>https://thegrid.ai/rho-test-site/solutions/index.html</link>
-            <guid isPermaLink="false">b7a5bebf-f7af-43dc-8eb1-6368982c203c</guid>
-            <pubDate>Thu, 14 Jul 2016 18:22:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
