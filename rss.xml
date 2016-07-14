@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Rho test site]]></title>
         <description><![CDATA[Rho test site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rho-test-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 18:21:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Jul 2016 18:22:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rho-test-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Solutions]]></title>
+            <description><![CDATA[<article><h1>Solutions</h1><h2>Consulting</h2><p>Clinical trials involve a myriad of complicated processes and variables. Rho can help you navigate the clinical trial process to save you time and minimize costs. Each client benefits from our years of expert support of the world’s leading pharmaceutical and biotechnology companies as well as the National Institutes of Health and other federal agencies.</p></article>]]></description>
+            <link>https://thegrid.ai/rho-test-site/solutions/index.html</link>
+            <guid isPermaLink="false">b7a5bebf-f7af-43dc-8eb1-6368982c203c</guid>
+            <pubDate>Thu, 14 Jul 2016 18:22:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Contact Us]]></title>
             <description><![CDATA[<h1>Contact Us</h1>]]></description>
-            <link>undefinedcontact-us/index.html</link>
+            <link>https://thegrid.ai/rho-test-site/contact-us/index.html</link>
             <guid isPermaLink="false">9a2948ba-1f38-40ec-927d-61c506af3f6b</guid>
             <pubDate>Thu, 14 Jul 2016 18:21:33 GMT</pubDate>
         </item>
