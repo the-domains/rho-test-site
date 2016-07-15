@@ -1,6 +1,6 @@
 name: Rho test site
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.12827
 typography_spectrum: 0.7312140280846506
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#d9d9e1'
-    - '#62626d'
-    - '#003cb1'
-    - '#740000'
+    - '#dedede'
+    - '#14161a'
+    - '#8b8984'
+    - '#00a651'
+    - '#cc2831'
   brandStrength: 0.125
   lightness: 0.75
   saturation: 0.1875
