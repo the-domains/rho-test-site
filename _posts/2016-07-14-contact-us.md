@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
@@ -8,8 +8,8 @@ description: >-
   To work with Rho, or just to learn more about us, including our full suite of
   clinical research services, advanced technologies, and the people who make it
   all happen, contact us at 919-408-8000 or email info@rhoworld.com. 
-datePublished: '2016-07-15T01:29:48.055Z'
-dateModified: '2016-07-14T18:26:10.484Z'
+datePublished: '2016-07-15T01:50:27.198Z'
+dateModified: '2016-07-15T01:29:56.865Z'
 title: Contact Us
 author: []
 sourcePath: _posts/2016-07-14-contact-us.md
@@ -17,7 +17,7 @@ authors: []
 publisher: null
 starred: false
 url: contact-us/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Contact Us
