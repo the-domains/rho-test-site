@@ -4,7 +4,7 @@
         <description><![CDATA[Rho test site]]></description>
         <link>https://thegrid.ai/rho-test-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 13:51:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 13:50:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rho-test-site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,20 +19,6 @@
             <link>https://thegrid.ai/rho-test-site/welcome-to-a-different-kind-of-cro/index.html</link>
             <guid isPermaLink="false">90fc9953-6214-4d5f-b83f-bf002302b29e</guid>
             <pubDate>Thu, 14 Jul 2016 19:06:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cf5fbda-be3e-461e-afba-d1540b79b75e.jpg">]]></description>
-            <link>https://thegrid.ai/rho-test-site/a7277ade-06c9-46c9-a775-88e3cf3b77b3/index.html</link>
-            <guid isPermaLink="false">a7277ade-06c9-46c9-a775-88e3cf3b77b3</guid>
-            <pubDate>Fri, 15 Jul 2016 13:50:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Solutions]]></title>
-            <description><![CDATA[<article><h1>Solutions</h1><h2>Consulting</h2><p>Clinical trials involve a myriad of complicated processes and variables. Rho can help you navigate the clinical trial process to save you time and minimize costs. Each client benefits from our years of expert support of the world’s leading pharmaceutical and biotechnology companies as well as the National Institutes of Health and other federal agencies.</p></article>]]></description>
-            <link>https://thegrid.ai/rho-test-site/solutions/index.html</link>
-            <guid isPermaLink="false">b7a5bebf-f7af-43dc-8eb1-6368982c203c</guid>
-            <pubDate>Fri, 15 Jul 2016 13:50:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Meet the Team]]></title>
@@ -75,6 +61,13 @@
             <link>https://thegrid.ai/rho-test-site/404d5f2f-8224-4270-9f88-7e1e188b547d/index.html</link>
             <guid isPermaLink="false">404d5f2f-8224-4270-9f88-7e1e188b547d</guid>
             <pubDate>Thu, 14 Jul 2016 19:59:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba43ff3d-f666-4966-9157-536c3d3b7bf4.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba43ff3d-f666-4966-9157-536c3d3b7bf4.jpg</link>
+            <guid isPermaLink="false">abba2572-1c99-48f7-8092-8bb7a5c72eed</guid>
+            <pubDate>Thu, 14 Jul 2016 19:58:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
