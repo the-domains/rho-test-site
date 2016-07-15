@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
@@ -14,14 +14,14 @@ description: >-
   research data primarily for federal research studies. He also has a hand in
   designing and developing case report forms and other study related documents.
   Outside of Rho, Bill enjoys spending time with his two young children. 
-datePublished: '2016-07-14T19:25:56.738Z'
-dateModified: '2016-07-14T19:25:26.561Z'
+datePublished: '2016-07-15T13:50:35.497Z'
+dateModified: '2016-07-14T20:55:50.622Z'
 title: Meet the Team
 author: []
+sourcePath: _posts/2016-07-14-meet-the-team.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-14-meet-the-team.md
 url: meet-the-team/index.html
 _type: Article
 
