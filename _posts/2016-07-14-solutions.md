@@ -10,14 +10,14 @@ description: >-
   costs. Each client benefits from our years of expert support of the world’s
   leading pharmaceutical and biotechnology companies as well as the National
   Institutes of Health and other federal agencies.
-datePublished: '2016-07-14T18:22:15.962Z'
-dateModified: '2016-07-14T18:22:04.674Z'
+datePublished: '2016-07-15T13:50:44.340Z'
+dateModified: '2016-07-15T01:29:16.217Z'
 title: Solutions
 author: []
+sourcePath: _posts/2016-07-14-solutions.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-14-solutions.md
 url: solutions/index.html
 _type: Article
 
